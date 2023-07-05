@@ -1,0 +1,52 @@
+<div class="modal-header">
+    <h5 class="modal-title" id="">Editar Formulario</h5>
+    <button class="close" data-dismiss="modal" aria-label="Cerrar">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="modal-body">
+    <form id="form-data">
+        <div class="card card-body" style="background-color: navajowhite">
+            <div style="text-align: left; font-style: italic">
+                <span class="text-capitalize"> Datos del Usuario</span>
+            </div>
+            <div style="text-align: center" ;>
+                <p class="custom-control-label alert alert-secondary my-3">
+                    <span class="text-uppercase">
+            <strong> Son los datos del usuario</strong>
+          </span>
+                </p>
+            </div>
+        </div>
+
+        <div class="form-group row mt-2 justify-content-center">
+            <div class="col-12 col-md-8 mb-3">
+                <input type="hidden" id="usuarioID" name="usuarioID" value="" />
+                <label class="label-control" for="nombre" class="my-3 mx-3"> Nombre y apellido</label>
+                <input class="form-control" type="text" placeholder="Last and first" name="nombre" id="nombre" maxlength="50" required value="" />
+            </div>
+            <div class="col-12 col-md-8 mb-3">
+                <label class="label-control" for="email" class="my-3 mx-3"> Correo electrónico</label>
+                <input class="form-control" type="text" name="email" id="email" maxlength="50" required value="" />
+            </div>
+            <div class="col-12 col-md-8 mb-3">
+                <label class="label-control" for="contrasenha" class="my-3 mx-3"> Clave de acceso</label>
+                <input class="form-control" type="text" name="contrasenha" id="contrasenha" maxlength="50" required value="" />
+            </div>
+            <div class="col-12 col-md-8 mb-3">
+                <label class="label-control" for="rolID" class="my-3 mx-3">Rol</label>
+                <select class="form-control" name="rolID" id="rolID">
+                    
+                </select>
+            </div>
+            <div class="col-12 col-md-8 mb-0">
+                <label class="label-control" for="sino" class="my-3 mx-3"> Activo(S/N):</label>
+                <input class="form-control" type="text" name="sino" id="sino" maxlength="1" required value="" />
+            </div>
+        </div>
+    </form>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-success insert" onclick="javascript:aceptar('editar')"> Aceptar </button>
+    <button class="btn btn-default" data-dismiss="modal">Cerrar</button>
+</div>
