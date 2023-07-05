@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8C707497-2BE6-4BF6-879A-3E1ECCC04E53}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SistemaRestaurante.My.MyApplication</StartupObject>
+    <RootNamespace>SistemaRestaurante</RootNamespace>
+    <AssemblyName>SistemaRestaurante</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SistemaRestaurante.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SistemaRestaurante.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acceso_datos.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompra.Designer.vb">
+      <DependentUpon>frmCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompras.designer.vb">
+      <DependentUpon>frmCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetalleGrillaGenerica.Designer.vb">
+      <DependentUpon>frmDetalleGrillaGenerica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetalleGrillaGenerica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrillaGenerica.Designer.vb">
+      <DependentUpon>frmGrillaGenerica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrillaGenerica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProducto.Designer.vb">
+      <DependentUpon>frmProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductos.Designer.vb">
+      <DependentUpon>frmProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTiposUsuario.Designer.vb">
+      <DependentUpon>frmTiposUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTiposUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoUsuario.Designer.vb">
+      <DependentUpon>frmTipoUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnidadesMedida.Designer.vb">
+      <DependentUpon>frmUnidadesMedida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnidadesMedida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUnidadMedida.Designer.vb">
+      <DependentUpon>frmUnidadMedida.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUnidadMedida.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.vb">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarios.Designer.vb">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompra.resx">
+      <DependentUpon>frmCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompras.resx">
+      <DependentUpon>frmCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetalleGrillaGenerica.resx">
+      <DependentUpon>frmDetalleGrillaGenerica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrillaGenerica.resx">
+      <DependentUpon>frmGrillaGenerica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductos.resx">
+      <DependentUpon>frmProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTiposUsuario.resx">
+      <DependentUpon>frmTiposUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoUsuario.resx">
+      <DependentUpon>frmTipoUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnidadesMedida.resx">
+      <DependentUpon>frmUnidadesMedida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUnidadMedida.resx">
+      <DependentUpon>frmUnidadMedida.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

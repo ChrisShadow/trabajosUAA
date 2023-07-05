@@ -1,0 +1,130 @@
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 7\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 9\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmPrincipal.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmPrincipal.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 11\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmDetalleGrillaGenerica.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmGrillaGenerica.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmPrincipal.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadesMedida.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadMedida.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 12\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Form1.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmDetalleGrillaGenerica.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmGrillaGenerica.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmPrincipal.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadesMedida.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadMedida.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUsuarios.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 13\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Form1.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmDetalleGrillaGenerica.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmGrillaGenerica.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmPrincipal.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadesMedida.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadMedida.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUsuario.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUsuarios.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmCompras.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmCompra.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmProductos.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.LoginForm1.resources
+D:\UAA\Cursos\IPOE\2020\Primavera\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe.config
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.exe
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\bin\Debug\SistemaRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Form1.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmCompra.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmCompras.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmDetalleGrillaGenerica.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmGrillaGenerica.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmPrincipal.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmProductos.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTiposUsuario.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmTipoUsuario.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadesMedida.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUnidadMedida.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUsuario.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.frmUsuarios.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.LoginForm1.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.exe
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\3er semestre y MR_2doS\VB\Clase 17\SistemaRestaurante\SistemaRestaurante\obj\Debug\SistemaRestaurante.pdb
