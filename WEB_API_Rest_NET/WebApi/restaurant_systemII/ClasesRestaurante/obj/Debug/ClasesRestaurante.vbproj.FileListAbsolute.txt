@@ -1,0 +1,56 @@
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CopyComplete
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CopyComplete
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CopyComplete
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\bin\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.vbproj.CopyComplete
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\ClasesRestaurante\obj\Debug\ClasesRestaurante.pdb

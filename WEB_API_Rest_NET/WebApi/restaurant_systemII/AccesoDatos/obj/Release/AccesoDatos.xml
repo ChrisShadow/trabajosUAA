@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AccesoDatos
+</name>
+</assembly>
+<members>
+<member name="T:AccesoDatos.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AccesoDatos.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AccesoDatos.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:AccesoDatos.Restaurante.Datos.gDatos">
+ <summary> 
+ Clase abstracta de acceso a Datos. 
+ </summary> 
+</member>
+<member name="P:AccesoDatos.Restaurante.Datos.gDatos.Servidor">
+ <summary> 
+ Nombre del equipo servidor de datos. 
+ </summary> 
+</member>
+<member name="P:AccesoDatos.Restaurante.Datos.gDatos.Base">
+ <summary> 
+ Nombre de la base de datos a utilizar. 
+ </summary> 
+</member>
+<member name="P:AccesoDatos.Restaurante.Datos.gDatos.Ususario">
+ <summary> 
+ Nombre del Usuario de la BD. 
+ </summary> 
+</member>
+<member name="P:AccesoDatos.Restaurante.Datos.gDatos.Password">
+ <summary> 
+ Password del Usuario de la BD. 
+ </summary> 
+</member>
+<member name="P:AccesoDatos.Restaurante.Datos.gDatos.CadenaConexion">
+ <summary> 
+ Cadena de conexión completa a la base. 
+ </summary> 
+</member>
+<member name="P:AccesoDatos.Restaurante.Datos.gDatos.Conexion">
+ <summary> 
+ Crea u obtiene un objeto para conectarse a la base de dtaos. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerDataset(System.String)">
+ <summary> 
+ Obtiene un DataSet a partir de un Procedimiento Almacenado. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerDataset(System.String,System.Object[])">
+ <summary> 
+ Obtiene un DataSet a partir de un Procedimiento Almacenado y sus parámetros. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerDataReader(System.String)">
+ <summary> 
+ Obtiene un DataReader a partir de un Procedimiento Almacenado. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerDataReader(System.String,System.Object[])">
+ <summary> 
+ Obtiene un DataReader a partir de un Procedimiento Almacenado y sus parámetros. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerDataTable(System.String)">
+ <summary> 
+ Obtiene un DataTable a partir de un Procedimiento Almacenado. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerDataTable(System.String,System.Object[])">
+ <summary> 
+ Obtiene un DataSet a partir de un Procedimiento Almacenado y sus parámetros. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerValor(System.String)">
+ <summary> 
+ Obtiene un Valor a partir de un Procedimiento Almacenado. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerValorEscalar(System.String)">
+ <summary> 
+ Obtiene un Valor Escalar a partir de un Procedimiento Almacenado. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerValorEscalar(System.String,System.Object[])">
+ <summary> 
+ Obtiene un Valor Escalar a partir de un Procedimiento Almacenado, con Params de Entrada
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TraerValor(System.String,System.Object[])">
+ <summary> 
+ Obtiene un Valor a partir de un Procedimiento Almacenado, y sus parámetros. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.Ejecutar(System.String)">
+ <summary> 
+ Ejecuta un Procedimiento Almacenado en la base. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.Ejecutar(System.String,System.Object[])">
+ <summary> 
+ Ejecuta un Procedimiento Almacenado en la base, utilizando los parámetros. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.IniciarTransaccion">
+ <summary> 
+ Comienza una Transacción en la base en uso. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.TerminarTransaccion">
+ <summary> 
+ Confirma la transacción activa. 
+ </summary> 
+</member>
+<member name="M:AccesoDatos.Restaurante.Datos.gDatos.AbortarTransaccion">
+ <summary> 
+ Cancela la transacción activa. 
+ </summary> 
+</member>
+</members>
+</doc>

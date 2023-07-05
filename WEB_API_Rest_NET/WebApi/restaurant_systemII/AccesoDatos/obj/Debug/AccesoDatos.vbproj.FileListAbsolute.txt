@@ -1,0 +1,37 @@
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\7\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\11\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\13\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.Resources.resources
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\Marco\Desktop\Chris\E-Campu UAA\Cuarto Semestre\VB_AVANZADA\18\My WEB_API\WebApi\restaurant_systemII\AccesoDatos\obj\Debug\AccesoDatos.pdb
