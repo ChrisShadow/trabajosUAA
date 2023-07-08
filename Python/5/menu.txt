@@ -1,0 +1,5 @@
+1:Cálculo de IVA
+2:Número Mayor
+3:Cálculo descuento
+4:Par o impar 
+99:Salir del menú

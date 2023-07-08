@@ -1,0 +1,6 @@
+Alumno|Nota
+Sergio Delgado:5
+Pablo Guiña ZU:3
+Osmar Colmán:2
+Pabla Acosta:5
+Pedro Benegas:1

@@ -1,0 +1,9 @@
+1:Lista de alumnos ordenado por apellidos,nombres
+2:Lista de alumnos ordenados por numero de documento
+3:Lista de notas de matematicas con documento, apellidos,nombres, notas de cada parcial y el promedio
+4:Lista de notas de matematicas con documento, apellidos,nombres, notas de cada parcial y el promedio
+5:Lista de alumnos ordenado por apellidos,nombres(listaAlumnosApellidos.csv)
+6:Lista de alumnos ordenados por numero de documento(listaAlumnosDocumento.csv)
+7:Lista notas de mate con documento,apellidos,nombres,notas x parcial y promedio(notasMatematicasPromedio.csv)
+8:Lista notas de python con documento,apellidos,nombres, notas por parcial y promedio(notasPythonPromedio.csv)
+99:Salir del menu
